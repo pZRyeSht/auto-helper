@@ -1,0 +1,10 @@
+# Reference https://github.com/github/gitignore/blob/master/Go.gitignore
+
+# OS General
+.DS_Store
+
+# Develop tools
+.vscode/
+.idea/
+*.swp
+tmp/
