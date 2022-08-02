@@ -31,7 +31,13 @@ server 生成腾讯云函数执行二进制文件，部署至腾讯云函数即�
 ### 部署实例
 
 初始化scf项目后，目录如下：
-README.md       README_EN.md    main            serverless.yaml
+```
+project
+│   README.md
+│   README_EN.md 
+│   main
+│   serverless.yaml
+```
 将编译生成的scf二进制文件替换main，编辑serverless.yaml文件
 
 ```text
